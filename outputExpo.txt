@@ -1,0 +1,140 @@
+Oddonacci(1) : 1 
+Runtime in Second : 0 
+Step's count : 1 
+-----------------------------
+Oddonacci(2) : 1 
+Runtime in Second : 0 
+Step's count : 2 
+-----------------------------
+Oddonacci(3) : 1 
+Runtime in Second : 0 
+Step's count : 3 
+-----------------------------
+Oddonacci(4) : 3 
+Runtime in Second : 0 
+Step's count : 7 
+-----------------------------
+Oddonacci(5) : 5 
+Runtime in Second : 0 
+Step's count : 14 
+-----------------------------
+Oddonacci(6) : 9 
+Runtime in Second : 0 
+Step's count : 27 
+-----------------------------
+Oddonacci(7) : 17 
+Runtime in Second : 0 
+Step's count : 52 
+-----------------------------
+Oddonacci(8) : 31 
+Runtime in Second : 0 
+Step's count : 98 
+-----------------------------
+Oddonacci(9) : 57 
+Runtime in Second : 0 
+Step's count : 183 
+-----------------------------
+Oddonacci(10) : 105 
+Runtime in Second : 0 
+Step's count : 340 
+-----------------------------
+Oddonacci(11) : 193 
+Runtime in Second : 0 
+Step's count : 629 
+-----------------------------
+Oddonacci(12) : 355 
+Runtime in Second : 0 
+Step's count : 1161 
+-----------------------------
+Oddonacci(13) : 653 
+Runtime in Second : 0 
+Step's count : 2140 
+-----------------------------
+Oddonacci(14) : 1201 
+Runtime in Second : 0 
+Step's count : 3941 
+-----------------------------
+Oddonacci(15) : 2209 
+Runtime in Second : 0 
+Step's count : 7254 
+-----------------------------
+Oddonacci(16) : 4063 
+Runtime in Second : 0 
+Step's count : 13348 
+-----------------------------
+Oddonacci(17) : 7473 
+Runtime in Second : 0 
+Step's count : 24557 
+-----------------------------
+Oddonacci(18) : 13745 
+Runtime in Second : 0 
+Step's count : 45174 
+-----------------------------
+Oddonacci(19) : 25281 
+Runtime in Second : 0 
+Step's count : 83095 
+-----------------------------
+Oddonacci(20) : 46499 
+Runtime in Second : 0 
+Step's count : 152843 
+-----------------------------
+Oddonacci(21) : 85525 
+Runtime in Second : 0 
+Step's count : 281130 
+-----------------------------
+Oddonacci(22) : 157305 
+Runtime in Second : 0 
+Step's count : 517087 
+-----------------------------
+Oddonacci(23) : 289329 
+Runtime in Second : 0 
+Step's count : 951080 
+-----------------------------
+Oddonacci(24) : 532159 
+Runtime in Second : 0 
+Step's count : 1749318 
+-----------------------------
+Oddonacci(25) : 978793 
+Runtime in Second : 0 
+Step's count : 3217507 
+-----------------------------
+Oddonacci(26) : 1800281 
+Runtime in Second : 0 
+Step's count : 5917928 
+-----------------------------
+Oddonacci(27) : 3311233 
+Runtime in Second : 0 
+Step's count : 10884777 
+-----------------------------
+Oddonacci(28) : 6090307 
+Runtime in Second : 0 
+Step's count : 20020237 
+-----------------------------
+Oddonacci(29) : 11201821 
+Runtime in Second : 0 
+Step's count : 36822968 
+-----------------------------
+Oddonacci(30) : 20603361 
+Runtime in Second : 0 
+Step's count : 67728009 
+-----------------------------
+Oddonacci(31) : 37895489 
+Runtime in Second : 0 
+Step's count : 124571242 
+-----------------------------
+Oddonacci(32) : 69700671 
+Runtime in Second : 0 
+Step's count : 229122248 
+-----------------------------
+Oddonacci(33) : 128199521 
+Runtime in Second : 0 
+Step's count : 421421529 
+-----------------------------
+Oddonacci(34) : 235795681 
+Runtime in Second : 0 
+Step's count : 775115050 
+-----------------------------
+Oddonacci(35) : 433695873 
+Runtime in Second : 1 
+Step's count : 1425658859 
+-----------------------------

@@ -1,0 +1,80 @@
+Oddonacci(5) : 5 
+Runtime in Second : 0 
+Steps : 3 
+-----------------------------
+Oddonacci(10) : 105 
+Runtime in Second : 0 
+Steps : 11 
+-----------------------------
+Oddonacci(15) : 2209 
+Runtime in Second : 0 
+Steps : 24 
+-----------------------------
+Oddonacci(20) : 46499 
+Runtime in Second : 0 
+Steps : 42 
+-----------------------------
+Oddonacci(25) : 978793 
+Runtime in Second : 0 
+Steps : 65 
+-----------------------------
+Oddonacci(30) : 20603361 
+Runtime in Second : 0 
+Steps : 93 
+-----------------------------
+Oddonacci(35) : 433695873 
+Runtime in Second : 0 
+Steps : 126 
+-----------------------------
+Oddonacci(40) : 539260895 
+Runtime in Second : 0 
+Steps : 164 
+-----------------------------
+Oddonacci(45) : -1106123859 
+Runtime in Second : 0 
+Steps : 207 
+-----------------------------
+Oddonacci(50) : -780807791 
+Runtime in Second : 0 
+Steps : 255 
+-----------------------------
+Oddonacci(55) : 216042609 
+Runtime in Second : 0 
+Steps : 308 
+-----------------------------
+Oddonacci(60) : -1645004157 
+Runtime in Second : 0 
+Steps : 366 
+-----------------------------
+Oddonacci(65) : -750114111 
+Runtime in Second : 0 
+Steps : 429 
+-----------------------------
+Oddonacci(70) : -1488695 
+Runtime in Second : 0 
+Steps : 497 
+-----------------------------
+Oddonacci(75) : 1868586433 
+Runtime in Second : 0 
+Steps : 570 
+-----------------------------
+Oddonacci(80) : -165993377 
+Runtime in Second : 0 
+Steps : 648 
+-----------------------------
+Oddonacci(85) : -1618763179 
+Runtime in Second : 0 
+Steps : 731 
+-----------------------------
+Oddonacci(90) : 2068304665 
+Runtime in Second : 0 
+Steps : 819 
+-----------------------------
+Oddonacci(95) : -1300031551 
+Runtime in Second : 0 
+Steps : 912 
+-----------------------------
+Oddonacci(100) : -1081317309 
+Runtime in Second : 0 
+Steps : 1010 
+-----------------------------
