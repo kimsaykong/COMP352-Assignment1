@@ -6,8 +6,8 @@ public class OddonacciExpo {
     static int step=0;
     public static void main(String[] args) {
         step=0;
+        int i =50;
         String content = "";
-        for (int i =1;i<=35;i=i+1){
             long startTime = System.currentTimeMillis();
             long oddonacciNumber = oddonacciExpo(i);
             long endTime = System.currentTimeMillis();
@@ -15,7 +15,6 @@ public class OddonacciExpo {
                     "Runtime in Second : %d \n" +
                     "Step's count : %d \n" +
                     "-----------------------------\n",i,oddonacciNumber,((endTime-startTime)/1000),step);
-        }
         try{
             writeLog(content);
         } catch (IOException e) {
@@ -30,11 +29,11 @@ public class OddonacciExpo {
         return oddonacciExpo(num-1)+oddonacciExpo(num-2)+oddonacciExpo(num-3);
     }
     public static void writeLog(String content) throws IOException {
-        File outputFile = new File("outputExpo.txt");
+        File outputFile = new File("output.txt");
         if (!outputFile.exists())outputFile.createNewFile();
         FileWriter writer = new FileWriter(outputFile);
         writer.write(content);
         writer.close();
-        System.out.println("Successfully wrote to the log file.");
+        System.out.println("Successfully wrote to the log.txt file.");
     }
 }

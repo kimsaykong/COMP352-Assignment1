@@ -1,8 +1,7 @@
-import jdk.jfr.Unsigned;
-
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.math.BigInteger;
 
 public class OddonacciLinear {
     static int step=0;
@@ -10,7 +9,7 @@ public class OddonacciLinear {
         String content = "";
         for (int i =5;i<=100;i=i+5){
             long startTime = System.currentTimeMillis();
-            Long oddonacciNumber = oddonacciLinear(i,1,1,1);
+            BigInteger oddonacciNumber = oddonacciLinear(i,BigInteger.ONE,BigInteger.ONE,BigInteger.ONE);
             long endTime = System.currentTimeMillis();
             content += String.format("Oddonacci(%d) : %d \n" +
                                     "Runtime in Second : %d \n" +
@@ -23,12 +22,12 @@ public class OddonacciLinear {
             e.printStackTrace();
         }
     }
-    public static long oddonacciLinear(int num,int first, int second, int third){
+    public static BigInteger oddonacciLinear(int num, BigInteger first, BigInteger second, BigInteger third){
         step++;
         // base case
         if (num==1 || num==2 || num==3) return third;
         // tail recursive call
-        return oddonacciLinear(num-1,second,third,first+second+third);
+        return oddonacciLinear(num-1,second,third,first.add(second.add(third)));
     }
     public static void writeLog(String content) throws IOException {
         File outputFile = new File("outputLinear.txt");
@@ -36,6 +35,6 @@ public class OddonacciLinear {
         FileWriter writer = new FileWriter(outputFile);
         writer.write(content);
         writer.close();
-        System.out.println("Successfully wrote to the log file.");
+        System.out.println("Successfully wrote to the log.txt file.");
     }
 }

@@ -1,0 +1,41 @@
+Oddonacci(5) : 5
+Runtime in Second : 0
+Step's count : 7
+-----------------------------
+Oddonacci(10) : 105
+Runtime in Second : 0
+Step's count : 157
+-----------------------------
+Oddonacci(15) : 2209
+Runtime in Second : 0
+Step's count : 3313
+-----------------------------
+Oddonacci(20) : 46499
+Runtime in Second : 0
+Step's count : 69748
+-----------------------------
+Oddonacci(25) : 978793
+Runtime in Second : 0
+Step's count : 1468189
+-----------------------------
+Oddonacci(30) : 20603361
+Runtime in Second : 0
+Step's count : 30905041
+-----------------------------
+Oddonacci(35) : 433695873
+Runtime in Second : 1
+Step's count : 650543809
+-----------------------------
+Oddonacci(40) : 9129195487
+Runtime in Second : 30
+Step's count : 808891342
+-----------------------------
+Oddonacci(45) : 192167404461
+Runtime in Second : 633
+Step's count : 488297859
+-----------------------------
+Oddonacci(50) : 4045078385041
+Runtime in Second : 13402
+Step's count : -1171211687
+-----------------------------
+
